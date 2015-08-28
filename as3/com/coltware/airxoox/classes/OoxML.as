@@ -8,7 +8,7 @@
  */
 package com.coltware.airxoox.classes {
 	
-	import coltware.airxoox.*;
+	import com.coltware.airxoox.*;
 	import com.coltware.airxoox.classes.Relationships;
 	import com.coltware.airxoox.core.AppProps;
 	import com.coltware.airxoox.core.ContentTypes;
