@@ -78,7 +78,7 @@ package com.coltware.airxoox.excel {
 			
 			var sheet:SMLWorksheet = new SMLWorksheet(_ml,rId);
 			sheet.loadXML(newSheet_xml);
-			
+			sheet.setName(name);
 			sheet.isUpdate = true;
 			_sheetList.push(sheet);
 			
